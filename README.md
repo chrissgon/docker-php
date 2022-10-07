@@ -1,4 +1,4 @@
-# docker-php
+# dockerphp
 Repositório de ambiente PHP com Docker e Nginx
 
 ## Iniciar
